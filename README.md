@@ -18,6 +18,9 @@
 
 Qusai Ismail is pursuing his M.Sc. at the Jordan University of Science and Technology in computer science. Received his B.Sc Degree in Computer Science from Yarmouk University in 2019 with honors. His research interest includes Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Pattern Recognition, model interpretation, and Natural Language Processing.
 
+
+
+
 ## 🔬 Research Impact
 
 ### 🌐 Professional Identifiers
