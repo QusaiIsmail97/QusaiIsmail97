@@ -10,8 +10,9 @@
 
  
 </div>
-<div align="center">
 ## 👤 About Me
+<div align="center">
+
 
 <img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Professional GIF">
 
