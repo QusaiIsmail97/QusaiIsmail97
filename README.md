@@ -55,18 +55,10 @@ Qusai Ismail is pursuing his M.Sc. at the Jordan University of Science and Techn
 - 🔬 Pattern Recognition
 - 📈 Model Interpretation
 
-### 🔍 Research Interests
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Pattern Recognition
-- Model Interpretation
 
 ## 🌐 Language Proficiency
 - Arabic (Native)
-- English (Fluent)
+- English (Very Good)
 
 ## 📫 Professional Connections
 - Email: qusaibanyismail@gmail.com
