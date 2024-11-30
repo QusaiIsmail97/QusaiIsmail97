@@ -1,88 +1,44 @@
-import os
-from datetime import datetime
+# Qusai Ismail
 
-class ReadmeGenerator:
-    def __init__(self, name, email):
-        self.name = name
-        self.email = email
-        self.skills = []
-        self.current_focus = []
-        self.learning_interests = []
+## 🎓 Academic Background
+Computer Science Professional | Machine Learning Researcher | AI Innovator
 
-    def add_skill(self, skill):
-        """Add a technical skill to the profile"""
-        self.skills.append(skill)
+### Education
+- **M.Sc. in Computer Science** 
+  Jordan University of Science and Technology
+- **B.Sc. in Computer Science** (Honors)
+  Yarmouk University, 2019
 
-    def set_current_focus(self, focus_areas):
-        """Set current research or project focus"""
-        self.current_focus = focus_areas
+## 🔬 Research Interests
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Pattern Recognition
 
-    def set_learning_interests(self, interests):
-        """Set learning and exploration areas"""
-        self.learning_interests = interests
+## 💻 Technical Expertise
 
-    def generate_readme(self):
-        """Generate a comprehensive README markdown file"""
-        readme_content = f"""# 👋 {self.name}
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Arabic](https://img.shields.io/badge/-Arabic-006400?style=flat-square)
+![English](https://img.shields.io/badge/-English-1E90FF?style=flat-square)
 
-## 🚀 Professional Profile
+### AI & Machine Learning Tools
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### 💡 Current Focus
-{' • '.join(f'🔬 {focus}' for focus in self.current_focus)}
+## 🚀 Current Focus
+Developing intelligent models for solving complex real-world challenges through advanced AI and Machine Learning techniques
 
-### 🌱 Learning & Exploring
-{' • '.join(f'📖 {interest}' for interest in self.learning_interests)}
+## 📫 Contact & Connect
+[![Email](https://img.shields.io/badge/Email-qusaibanyismail@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:qusaibanyismail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
 
-### 🛠️ Technical Skills
-{' • '.join(f'💻 {skill}' for skill in self.skills)}
+## 🌐 Research Highlights
+- Pioneering AI solutions in Computer Vision
+- Advanced NLP model development
+- Innovative Deep Learning architectures
 
-### 📫 Contact
-- **Email:** {self.email}
-- **Last Updated:** {datetime.now().strftime('%B %d, %Y')}
-
-*Continuously learning and innovating* 🧠✨
-"""
-        return readme_content
-
-    def save_readme(self, content, filename='README.md'):
-        """Save the generated README to a file"""
-        with open(filename, 'w') as f:
-            f.write(content)
-        print(f"README successfully generated: {filename}")
-
-def main():
-    # Example usage
-    qusai_readme = ReadmeGenerator(
-        name="Qusai Ismail", 
-        email="qusaibanyismail@gmail.com"
-    )
-
-    # Set current focus
-    qusai_readme.set_current_focus([
-        "AI and Deep Learning Research",
-        "Computer Vision Solutions",
-        "NLP Model Development"
-    ])
-
-    # Set learning interests
-    qusai_readme.set_learning_interests([
-        "Advanced NLP Techniques",
-        "Model Interpretability",
-        "Cutting-edge Machine Learning Algorithms"
-    ])
-
-    # Add technical skills
-    skills = [
-        "Python", "TensorFlow", "PyTorch", 
-        "Scikit-learn", "Natural Language Processing", 
-        "Deep Learning", "Computer Vision"
-    ]
-    for skill in skills:
-        qusai_readme.add_skill(skill)
-
-    # Generate and save README
-    readme_content = qusai_readme.generate_readme()
-    qusai_readme.save_readme(readme_content)
-
-if __name__ == "__main__":
-    main()
+*Transforming complex challenges into intelligent solutions* 🧠✨
