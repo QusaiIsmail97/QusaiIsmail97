@@ -22,7 +22,7 @@ Qusai Ismail is pursuing his M.Sc. at the Jordan University of Science and Techn
   Yarmouk University
 
 ## 💻 Technical Expertise
-### 🚀 Programming Languages
+### 🚀 Programming Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -37,20 +37,33 @@ Qusai Ismail is pursuing his M.Sc. at the Jordan University of Science and Techn
 - 🔬 Pattern Recognition
 - 📈 Model Interpretation
 
+## 🌟 Skills Progression
+### Technical Skills Proficiency
+![Python](https://progress-bar.dev/90/?title=Python&color=2ecc71)
+![Machine Learning](https://progress-bar.dev/85/?title=Machine+Learning&color=3498db)
+![Deep Learning](https://progress-bar.dev/80/?title=Deep+Learning&color=e74c3c)
+
 ## 🌐 Language Proficiency
-- Arabic (Native)
-- English (Very Good)
+- 🇯🇴 Arabic: Native Speaker
+- 🇺🇸 English: Professional Working Proficiency
 
 ## 📫 Professional Connections
-- Email: qusaibanyismail@gmail.com
+- 📧 Email: qusaibanyismail@gmail.com
+- 🌐 LinkedIn: [Qusai Ismail](https://www.linkedin.com/in/qusai-ismail)
 
-## 🌟 Skills Progression
-- Python: Advanced 
-  - Progress: 🟢🟢🟢🟢🟢🟢🟢🟢🟢 90%
-- Machine Learning: Advanced 
-  - Progress: 🟢🟢🟢🟢🟢🟢🟢🟢 85%
-- Deep Learning: Advanced 
-  - Progress: 🟢🟢🟢🟢🟢🟢🟢 80%
+## 🏆 Achievements
+- Outstanding Academic Performance Award, Yarmouk University
+- Advanced Machine Learning Certification
+- Ongoing Research in AI and Machine Learning
+
+## 📊 GitHub Statistics
+![Qusai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qusai-ismail&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qusai-ismail&layout=compact&theme=radical)
 
 ---
 *Bridging Theory and Innovation in AI* 🧠✨
+
+## 📝 Recent Projects
+- Deep Learning-based Computer Vision Systems
+- Natural Language Processing Research
+- Machine Learning Model Interpretation Techniques
