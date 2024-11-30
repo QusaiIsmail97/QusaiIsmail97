@@ -36,11 +36,20 @@ Qusai Ismail is pursuing his M.Sc. at the Jordan University of Science and Techn
 
 ## 💻 Technical Expertise
 
-### 🚀 Programming Languages and Tools
-- Python
-- TensorFlow
-- PyTorch
-- Keras
+### 🚀 Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+### 🔍 Research Interests
+- 🤖 Artificial Intelligence
+- 📊 Machine Learning
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 💬 Natural Language Processing
+- 🔬 Pattern Recognition
+- 📈 Model Interpretation
 
 ### 🔍 Research Interests
 - Artificial Intelligence
