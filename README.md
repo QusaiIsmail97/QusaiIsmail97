@@ -1,9 +1,23 @@
 # 👋 Qusai Ismail, M.Sc. Candidate
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C6FFF&center=true&width=600&lines=Computer+Science+Researcher;AI+%26+Machine+Learning+Innovator;Deep+Learning+%7C+Computer+Vision+%7C+NLP" alt="Professional Typing Animation" />
+</div>
+
+## 🕰️ Current Time
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=7E57C2&center=true&width=435&lines=⏰+Current+Time:+Loading..." alt="Dynamic Clock" />
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Time&query=%24.time&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FEurope%2FLondon" alt="Dynamic Time" />
+  </p>
+</div>
+
 ## 👤 About Me
 
-Qusai Ismail is pursuing his M.Sc. at the Jordan University of Science and Technology in computer science. Received his B.Sc Degree in Computer Science from Yarmouk University in 2019 with honors. His research interest includes Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Pattern Recognition, model interpretation, and Natural Language Processing.
+<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Professional GIF">
 
+Qusai Ismail is pursuing his M.Sc. at the Jordan University of Science and Technology in computer science. Received his B.Sc Degree in Computer Science from Yarmouk University in 2019 with honors. His research interest includes Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Pattern Recognition, model interpretation, and Natural Language Processing.
 ## 🎓 Academic Background
 
 ### 📚 Education
