@@ -8,9 +8,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=7E57C2&center=true&width=435&lines=⏰+Current+Time:+Loading..." alt="Dynamic Clock" />
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Time&query=%24.time&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FEurope%2FLondon" alt="Dynamic Time" />
-  </p>
+ 
 </div>
 
 ## 👤 About Me
