@@ -7,7 +7,7 @@
 ## 🕰️ Current Time
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=7E57C2&center=true&width=435&lines=⏰+Current+Time:+Loading..." alt="Dynamic Clock" />
-
+</div>
  
 
 ##  👤 About Me
