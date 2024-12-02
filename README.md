@@ -57,8 +57,9 @@ Qusai Ismail is pursuing his M.Sc. at the Jordan University of Science and Techn
 - Ongoing Research in AI and Machine Learning
 
 ## 📊 GitHub Statistics
-![Qusai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qusai-ismail&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qusai-ismail&layout=compact&theme=radical)
+![Qusai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qusai-ismail&show_icons=true&theme=radical&v=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qusai-ismail&layout=compact&theme=radical&v=1)
+
 
 ---
 *Bridging Theory and Innovation in AI* 🧠✨
