@@ -8,9 +8,7 @@
 <img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Professional GIF">
 
 Qusai Ismail is pursuing his M.Sc. at the Jordan University of Science and Technology in computer science. Received his B.Sc Degree in Computer Science from Yarmouk University in 2019 with honors. His research interest includes Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Pattern Recognition, model interpretation, and Natural Language Processing.
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=YOUR_TWITTER_URL)](YOUR_TWITTER_URL)
+
 
 ## 🔬 Research Impact
 ### 🌐 Professional Identifiers
@@ -57,9 +55,11 @@ Qusai Ismail is pursuing his M.Sc. at the Jordan University of Science and Techn
 - 🇯🇴 Arabic: Native Speaker
 - 🇺🇸 English: Professional Working Proficiency
 
-## 📫 Professional Connections
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](YOUR_LINKEDIN_URL)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=YOUR_TWITTER_URL)](YOUR_TWITTER_URL)
 - 📧 Email: qusaibanyismail@gmail.com
-- 🌐 LinkedIn: [Qusai Ismail](https://www.linkedin.com/in/qusai-ismail)
+
 
 ## 🏆 Achievements
 - Outstanding Academic Performance Award, Yarmouk University
