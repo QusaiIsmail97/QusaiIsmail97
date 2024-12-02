@@ -29,22 +29,48 @@ I am Qusai Ismail, currently pursuing an M.Sc. in Computer Science at the Jordan
 
 ---
 
-## 💻 **Technical Expertise**
-### 🚀 **Programming Languages and Tools**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+## 💡 Technical Skills and Expertise
 
-### 🔍 **Research Interests**
-- 🤖 Artificial Intelligence  
-- 📊 Machine Learning  
-- 🧠 Deep Learning  
-- 👁️ Computer Vision  
-- 💬 Natural Language Processing  
-- 🔬 Pattern Recognition  
-- 📈 Model Interpretation  
+### 🐍 Programming Languages
+- **Python**: Excellent knowledge and advanced implementation
+- **C++**: Scripting and programming skills
+- **PHP**: Scripting capabilities
+- **Java**: Strong foundational knowledge
 
+### 🤖 Machine Learning & Artificial Intelligence
+#### Deep Learning Expertise
+- **Algorithms**: 
+  - LSTM
+  - RNN
+  - Transformers (BERT, RoBERTa, T5)
+- **Transfer Learning**:
+  - Computer Vision Models (VGG16, VGG19)
+  - Advanced model architectures
+
+### 📊 Data Science Skills
+- **Data Handling**:
+  - Advanced data exporting, importing, and transfer techniques
+  - Complex data loading methodologies
+- **Data Analysis**:
+  - Advanced visualization techniques
+  - Statistical analysis
+  - Optimization algorithms
+
+### 🧠 Specialized Domains
+- **Natural Language Processing (NLP)**
+  - Model development
+  - Advanced model explanation techniques
+- **Computer Vision (CV)**
+  - Model creation
+  - Transfer learning implementations
+
+### 💻 Core Competencies
+- Analytical Skills
+- Algorithms Design
+- Data Structures
+- Object-Oriented Programming (OOP)
+- Machine Learning Model Development
+- Data Analysis and Visualization
 ---
 
 ## 🌟 **Skills Progression**
@@ -67,10 +93,10 @@ I am Qusai Ismail, currently pursuing an M.Sc. in Computer Science at the Jordan
 
 ---
 
-## 📫 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:qusaibanyismail@gmail.com)
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](YOUR_LINKEDIN_URL)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=YOUR_TWITTER_URL)](YOUR_TWITTER_URL)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qusaibanyismail@gmail.com)](mailto:qusaibanyismail@gmail.com)
 
 ---
 
