@@ -29,7 +29,10 @@ I am Qusai Ismail, currently pursuing an M.Sc. in Computer Science at the Jordan
 ---
 
 ## 💡 Technical Skills and Expertise
-
+![BERT](https://img.shields.io/badge/-BERT-green?style=flat-square)
+![RoBERTa](https://img.shields.io/badge/-RoBERTa-blue?style=flat-square)
+![CNN](https://img.shields.io/badge/-CNN-red?style=flat-square)
+![Ensemble Learning](https://img.shields.io/badge/-Ensemble%20Learning-purple?style=flat-square)
 ### 🐍 Programming Languages
 - **Python**: Excellent knowledge and advanced implementation
 - **C++**: Scripting and programming skills
