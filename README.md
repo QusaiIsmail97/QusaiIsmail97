@@ -41,15 +41,14 @@ Qusai Ismail is pursuing his M.Sc. at the Jordan University of Science and Techn
 ## 🌟 Skills Progression
 ### Technical Skills Proficiency
 
-| Skill | Proficiency | Visual Representation |
-|-------|-------------|----------------------|
-| Python | 90% | ████████████████████ |
-| Machine Learning | 95% | ████████████████████░ |
-| Deep Learning | 95% | ████████████████████░ |
-| Oracle DB | 80% | ███████████████░░░░ |
-| Problem Solving | 80% | ███████████████░░░░ |
-| JAVA | 80% | ███████████████░░░░ |
-
+| Skill | Proficiency | Progress |
+|-------|-------------|----------|
+| Python | 90% | 🟢🟢🟢🟢🟢🟢🟢🟢🟢 |
+| Machine Learning | 95% | 🟢🟢🟢🟢🟢🟢🟢🟢🔵 |
+| Deep Learning | 95% | 🟢🟢🟢🟢🟢🟢🟢🟢🔵 |
+| Oracle DB | 80% | 🟢🟢🟢🟢🟢🟢🟢⚪⚪ |
+| Problem Solving | 80% | 🟢🟢🟢🟢🟢🟢🟢⚪⚪ |
+| JAVA | 80% | 🟢🟢🟢🟢🟢🟢🟢⚪⚪ |
 
 ## 🌐 Language Proficiency
 - 🇯🇴 Arabic: Native Speaker
@@ -58,7 +57,7 @@ Qusai Ismail is pursuing his M.Sc. at the Jordan University of Science and Techn
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](YOUR_LINKEDIN_URL)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=YOUR_TWITTER_URL)](YOUR_TWITTER_URL)
-- 📧 Email: qusaibanyismail@gmail.com
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qusaibanyismail@gmail.com)](mailto:qusaibanyismail@gmail.com)
 
 
 ## 🏆 Achievements
