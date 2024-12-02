@@ -33,6 +33,10 @@ I am Qusai Ismail, currently pursuing an M.Sc. in Computer Science at the Jordan
 ![RoBERTa](https://img.shields.io/badge/-RoBERTa-blue?style=flat-square)
 ![CNN](https://img.shields.io/badge/-CNN-red?style=flat-square)
 ![Ensemble Learning](https://img.shields.io/badge/-Ensemble%20Learning-purple?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ### 🐍 Programming Languages
 - **Python**: Excellent knowledge and advanced implementation
 - **C++**: Scripting and programming skills
