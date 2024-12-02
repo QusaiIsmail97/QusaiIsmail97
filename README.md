@@ -8,6 +8,9 @@
 <img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Professional GIF">
 
 Qusai Ismail is pursuing his M.Sc. at the Jordan University of Science and Technology in computer science. Received his B.Sc Degree in Computer Science from Yarmouk University in 2019 with honors. His research interest includes Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Pattern Recognition, model interpretation, and Natural Language Processing.
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](YOUR_LINKEDIN_URL)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=YOUR_TWITTER_URL)](YOUR_TWITTER_URL)
 
 ## 🔬 Research Impact
 ### 🌐 Professional Identifiers
@@ -39,9 +42,13 @@ Qusai Ismail is pursuing his M.Sc. at the Jordan University of Science and Techn
 
 ## 🌟 Skills Progression
 ### Technical Skills Proficiency
-![Python](https://progress-bar.dev/90/?title=Python&color=2ecc71)
-![Machine Learning](https://progress-bar.dev/85/?title=Machine+Learning&color=3498db)
-![Deep Learning](https://progress-bar.dev/80/?title=Deep+Learning&color=e74c3c)
+
+| Skill | Proficiency | Visual Representation |
+|-------|-------------|----------------------|
+| Python | 90% | ████████████████████ |
+| Machine Learning | 85% | ████████████████░░░░ |
+| Deep Learning | 80% | ███████████████░░░░ |
+
 
 ## 🌐 Language Proficiency
 - 🇯🇴 Arabic: Native Speaker
@@ -56,9 +63,7 @@ Qusai Ismail is pursuing his M.Sc. at the Jordan University of Science and Techn
 - Advanced Machine Learning Certification
 - Ongoing Research in AI and Machine Learning
 
-## 📊 GitHub Statistics
-![Qusai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qusai-ismail&show_icons=true&theme=radical&v=1)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qusai-ismail&layout=compact&theme=radical&v=1)
+
 
 
 ---
@@ -68,3 +73,15 @@ Qusai Ismail is pursuing his M.Sc. at the Jordan University of Science and Techn
 - Deep Learning-based Computer Vision Systems
 - Natural Language Processing Research
 - Machine Learning Model Interpretation Techniques
+
+
+
+
+
+
+
+
+
+
+
+
