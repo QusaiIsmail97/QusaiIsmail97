@@ -13,7 +13,6 @@ I am Qusai Ismail, currently pursuing an M.Sc. in Computer Science at the Jordan
 
 ---
 
-## 🔬 **Research Impact**
 ### 🌐 **Professional Identifiers**
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=ar&user=lgQufw4AAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Qusai-Ismail)
